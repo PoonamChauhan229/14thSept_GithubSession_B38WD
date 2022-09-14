@@ -1,0 +1,9 @@
+git config --list
+git clone https://github.com/PoonamChauhan229/14thSept_GithubSession_B38WD.git
+
+cd pathdirectoryname
+
+git status => show you the folders and files
+git add .
+git commit -m"git commands"
+git push
