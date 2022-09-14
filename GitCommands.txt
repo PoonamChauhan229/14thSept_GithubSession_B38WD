@@ -1,0 +1,22 @@
+Git Clone Commands
+
+git config --list
+git clone https://github.com/PoonamChauhan229/14thSept_GithubSession_B38WD.git
+
+cd pathdirectoryname
+
+git status => show you the folders and files
+git add .
+git commit -m"git commands"
+git push
+
+
+Git - Direct Files Upload
+
+git init
+git remote add origin https://github.com/PoonamChauhan229/secondrepo_14thSept_GithubSession_B38WD.git
+git status => show you the folders and files
+git add .
+git commit -m"git direect files upload"
+git push==if not working
+git push --set-upstream origin master
